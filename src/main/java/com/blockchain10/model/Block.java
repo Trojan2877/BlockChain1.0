@@ -1,4 +1,4 @@
-package com.blockchain10.entity;
+package com.blockchain10.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
