@@ -1,4 +1,4 @@
-package com.blockchain10.requestDto;
+package com.blockchain10.requestdto;
 
 public class BlockDto {
 
